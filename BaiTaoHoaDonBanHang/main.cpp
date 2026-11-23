@@ -105,6 +105,5 @@ int main(){
 	mh2.In();
 	MatHang::DoiDonVi("thung");
 	mh3.Nhap();
-	m
-	h3.In();
+	mh3.In();
 }
